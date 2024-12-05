@@ -1,1 +1,1 @@
-{"root":["./src/index.ts"],"version":"5.6.3"}
+{"root":["./frontend/socket-frontend/vite.config.ts","./frontend/socket-frontend/src/app.tsx","./frontend/socket-frontend/src/main.tsx","./frontend/socket-frontend/src/vite-env.d.ts","./src/index.ts"],"errors":true,"version":"5.6.3"}
